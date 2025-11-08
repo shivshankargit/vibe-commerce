@@ -80,8 +80,8 @@ This is a complete full-stack e-commerce shopping cart application built for the
 
 ### 1) Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd vibe-commerce-fullstack
+https://github.com/shivshankargit/vibe-commerce.git
+cd vibe-commerce
 ```
 
 ### 2) Backend Setup
