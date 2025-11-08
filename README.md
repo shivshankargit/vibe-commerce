@@ -4,8 +4,6 @@ This is a complete full-stack e-commerce shopping cart application built for the
 
 ## 📸 Screenshots
 
-_Add screenshots here (this makes your work stand out)._
-
 - **Product Page**  
   <img src="public/screenshots/product.png" width="800" />
 
