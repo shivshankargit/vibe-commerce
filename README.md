@@ -5,13 +5,13 @@ This is a complete full-stack e-commerce shopping cart application built for the
 ## 📸 Screenshots
 
 - **Product Page**  
-  <img src="public/screenshots/product.png" width="800" />
+  <img src="public/Screenshots/product.png" width="800" />
 
 - **Cart Page**  
-  <img src="public/screenshots/cart.png" width="800" />
+  <img src="public/Screenshots/cart.png" width="800" />
 
 - **Empty Cart**  
-  <img src="public/screenshots/empty-cart.png" width="800" />
+  <img src="public/Screenshots/empty-cart.png" width="800" />
 
 ---
 
